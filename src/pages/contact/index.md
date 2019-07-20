@@ -3,8 +3,8 @@ templateKey: TemplateBasic
 title: I'm always happy to hear from you.
 ---
 
-### 📮 hi@juliette.sh
+### 📮 cheavsovannarith@gmail.com
 
-- [Twitter](https://twitter.com/juliettepretot)
-- [GitHub](https://github.com/juliettepretot)
-- [LinkedIn](https://www.linkedin.com/in/juliette-prétot-2a9530a5/)
+- [Twitter](https://twitter.com/che_sovannarith)
+- [GitHub](https://github.com/sovannarithcheav)
+- [LinkedIn](https://www.linkedin.com/in/sovannarith-cheav-760769159/)
