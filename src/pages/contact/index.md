@@ -8,3 +8,5 @@ title: I'm always happy to hear from you.
 - [Twitter](https://twitter.com/che_sovannarith)
 - [GitHub](https://github.com/sovannarithcheav)
 - [LinkedIn](https://www.linkedin.com/in/sovannarith-cheav-760769159/)
+- [Medium](https://medium.com/@cheavsovannarith)
+- [Facebook](https://www.facebook.com/cheav.sovannarith)
