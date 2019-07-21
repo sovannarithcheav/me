@@ -5,7 +5,7 @@ featuredImage: ./me.jpg
 style: index
 ---
 
-My name's **_Cheav Sovannarith_**. I'm a software developer. I love learning new things.
+My name's **_Cheav Sovannarith_**. I'm a software developer. I love learning new things. I also publish some articles on [Medium](https://medium.com/@cheavsovannarith) too.
 
 **Location** _:_ **_Pnhom Penh, Cambodia._**
 
