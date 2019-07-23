@@ -57,4 +57,12 @@ Spring Boot, Postgresql, Docker, K8, Agile methodology for development life cycl
 
 ## Related Projects
 
-- Coming soon ...
+- [Spring Boot Swagger UI](https://github.com/sovannarithcheav/spring-boot-swagger-ui-demo.git)
+
+## Articles
+
+- [Initialize an ArrayList in Java](https://medium.com/tech-epic/initialize-an-arraylist-in-java-df0d29a0c135)
+
+- [_How can I know if a Medium article is ‘Members Only’ even before clicking on it?How can I know if a Medium article is ‘Members Only’ even before clicking on it?_](https://medium.com/tech-epic/how-can-i-know-if-a-medium-article-is-members-only-even-before-clicking-on-it-bcfee6c59d7f)
+
+- [Publish Your Website Using GitHub Pages](https://medium.com/tech-epic/publish-your-website-using-github-pages-c8f23f5493df)
