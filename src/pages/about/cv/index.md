@@ -59,6 +59,8 @@ Spring Boot, Postgresql, Docker, K8, Agile methodology for development life cycl
 
 - [Spring Boot Swagger UI](https://github.com/sovannarithcheav/spring-boot-swagger-ui-demo.git)
 
+- [_Jwt Authentication_](https://github.com/sovannarithcheav/spring-boot-jwt-authentication.git)
+
 ## Articles
 
 - [Initialize an ArrayList in Java](https://medium.com/tech-epic/initialize-an-arraylist-in-java-df0d29a0c135)
