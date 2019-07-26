@@ -1,8 +1,8 @@
 ---
-title: yourtime.zone
-tools: TypeScript, React
-date: 2018-08-01
-intro: "Webapp which displays the time of an event in the visitor's local time."
-link: 'https://github.com/laurajuliette/yourtime.zone'
-featuredImage: ./screenshot.png
+title: swagger-ui
+tools: spring-boot, thymeleaf, swagger
+date: 2019-07-08
+intro: 'Swagger UI documentation for API'
+link: 'https://github.com/sovannarithcheav/spring-boot-swagger-ui-demo'
+featuredImage: ./swagger-ui.png
 ---
