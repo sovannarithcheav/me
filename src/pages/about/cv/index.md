@@ -20,9 +20,9 @@ _Creative, ambitious, and software engineer. I primarily focus on java spring. I
 
 ## Work
 
-### Backend Developer at Truemoney Cambodia, Mar 2018 - Sep 2019
+### Backend Developer at Truemoney Cambodia, Mar 2018 - now
 
-Spring Boot, Spring Cloud, Spring Data, Postgresql, Docker, K8, Agile methodology for development life cycle.
+Spring Boot, Postgresql, Docker, K8, Agile methodology for development life cycle
 
 - Developing java SDK to support API developing process
 - Developing microservices using Spring Boot
