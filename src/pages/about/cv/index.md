@@ -7,7 +7,7 @@ title: ជាវ សុវណ្ណារិទ្ធ, Cheav Sovannarith
 
 _Creative, ambitious, and software engineer. I primarily focus on java spring. I am interested in devops and serverless architectures._
 
-**cheavsovannarith@gmail.com**
+#### 📮 cheavsovannarith@gmail.com
 
 ## Skills
 
@@ -20,15 +20,18 @@ _Creative, ambitious, and software engineer. I primarily focus on java spring. I
 
 ## Work
 
-### Backend Developer at Truemoney Cambodia, Mar 2018 - now
+### Backend Developer at Truemoney Cambodia, Mar 2018 - Sep 2019
 
 Spring Boot, Postgresql, Docker, K8, Agile methodology for development life cycle
 
 - Developing java SDK to support API developing process
 - Developing microservices using Spring Boot
+- Software Development with Containerization such as docker, K8, ...
+- Improving skills in Programming, Decision-Making, Problem Solving
 - Apply junitTest5 with API functional
 - Implement auto-generate API documentation with ascii-doc
 - Agile & cross-functional structure, pair programming
+- _Last Day 13-Sep_
 
 ## Community
 
@@ -60,6 +63,8 @@ Spring Boot, Postgresql, Docker, K8, Agile methodology for development life cycl
 - [Spring Boot Swagger UI](https://github.com/sovannarithcheav/spring-boot-swagger-ui-demo.git)
 
 - [_Jwt Authentication_](https://github.com/sovannarithcheav/spring-boot-jwt-authentication.git)
+
+- [Spring Boot Redis UI](https://github.com/sovannarithcheav/redis-configuration-ui.git)
 
 ## Articles
 
