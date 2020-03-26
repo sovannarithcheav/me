@@ -39,7 +39,11 @@
   ],
   "license": "MIT",
   "scripts": {
-     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "lint": "tslint --fix 'src/**/*.{ts,tsx}' -p tsconfig.json && tsc",
+    "type-check": "tsc --project tsconfig.json --noEmit",
+    "deploy:github": "npm run clean && npm run build && node ./scripts/deploy-github"
   },
   "husky": {
     "hooks": {
