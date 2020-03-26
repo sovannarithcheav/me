@@ -43,8 +43,7 @@
     "build": "gatsby build",
     "lint": "tslint --fix 'src/**/*.{ts,tsx}' -p tsconfig.json && tsc",
     "type-check": "tsc --project tsconfig.json --noEmit",
-    "deploy": "gatsby build && gh-pages -d public -b master",
-    "deploy:github": "npm run clean && npm run build && node ./scripts/deploy-github"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "husky": {
     "hooks": {
