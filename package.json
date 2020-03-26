@@ -28,6 +28,7 @@
     "gatsby-transformer-remark": "^2.2.6",
     "gatsby-transformer-sharp": "^2.1.14",
     "gatsby-transformer-sqip": "^2.0.18",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-helmet": "^5.2.0",
@@ -38,10 +39,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "lint": "tslint --fix 'src/**/*.{ts,tsx}' -p tsconfig.json && tsc",
-    "type-check": "tsc --project tsconfig.json --noEmit"
+     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "husky": {
     "hooks": {
