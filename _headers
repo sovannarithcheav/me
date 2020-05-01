@@ -1,0 +1,79 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js
+  Cache-Control: public, max-age=31536000, immutable
+/81ed7ab280156531d1162109c84394d19d32d477-3e9ddf99c608381b7200.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-markdown-page-templates-index-page-index-tsx-1b3be083e1f9b7151f2e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-markdown-page-templates-template-basic-index-tsx-bce87390f8cfa96cec60.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-tsx-47c636c7baf9f218cad2.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-projects-index-tsx-0fba0074bf8ab7c7053d.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-7341660fef118d4d1c07.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-5dd3c501fd049989ea3a.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-968ce072054d891407ab.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/sovannarithcheav.github.io/
+  Link: </sovannarithcheav.github.io/webpack-runtime-7341660fef118d4d1c07.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/framework-5dd3c501fd049989ea3a.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/app-968ce072054d891407ab.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/81ed7ab280156531d1162109c84394d19d32d477-3e9ddf99c608381b7200.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/component---src-markdown-page-templates-index-page-index-tsx-1b3be083e1f9b7151f2e.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sovannarithcheav.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/sovannarithcheav.github.io/about/cv/
+  Link: </sovannarithcheav.github.io/webpack-runtime-7341660fef118d4d1c07.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/framework-5dd3c501fd049989ea3a.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/app-968ce072054d891407ab.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/component---src-markdown-page-templates-template-basic-index-tsx-bce87390f8cfa96cec60.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sovannarithcheav.github.io/page-data/about/cv/page-data.json>; rel=preload; as=fetch; crossorigin
+/sovannarithcheav.github.io/contact/
+  Link: </sovannarithcheav.github.io/webpack-runtime-7341660fef118d4d1c07.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/framework-5dd3c501fd049989ea3a.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/app-968ce072054d891407ab.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/component---src-markdown-page-templates-template-basic-index-tsx-bce87390f8cfa96cec60.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sovannarithcheav.github.io/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/sovannarithcheav.github.io/404/
+  Link: </sovannarithcheav.github.io/webpack-runtime-7341660fef118d4d1c07.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/framework-5dd3c501fd049989ea3a.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/app-968ce072054d891407ab.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/component---src-pages-404-tsx-47c636c7baf9f218cad2.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sovannarithcheav.github.io/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/sovannarithcheav.github.io/projects/
+  Link: </sovannarithcheav.github.io/webpack-runtime-7341660fef118d4d1c07.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/framework-5dd3c501fd049989ea3a.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/app-968ce072054d891407ab.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/81ed7ab280156531d1162109c84394d19d32d477-3e9ddf99c608381b7200.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/component---src-pages-projects-index-tsx-0fba0074bf8ab7c7053d.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sovannarithcheav.github.io/page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin
+/sovannarithcheav.github.io/404.html
+  Link: </sovannarithcheav.github.io/webpack-runtime-7341660fef118d4d1c07.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/framework-5dd3c501fd049989ea3a.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/app-968ce072054d891407ab.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/5a0edfd2f3b9fece04045a22a2e7871007fadf0a-8f9dbabd60076f9aaae4.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/component---src-pages-404-tsx-47c636c7baf9f218cad2.js>; rel=preload; as=script
+  Link: </sovannarithcheav.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sovannarithcheav.github.io/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
