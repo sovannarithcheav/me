@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/sovannarithcheav.github.io",
+  pathPrefix: "/",
   plugins: [
     'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',

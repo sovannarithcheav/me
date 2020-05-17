@@ -1,7 +1,5 @@
 ---
 templateKey: TemplateBasic
-backTo: /
-backLabel: about
 title: ជាវ សុវណ្ណារិទ្ធ, Cheav Sovannarith
 ---
 

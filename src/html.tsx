@@ -37,16 +37,17 @@ const WEBFONTS = `
 const GREETING = `/*
 
 
-🔵🔵🔵🔵🔵🔴🔴🔴🔴🔴🔴
-🔵🔵🔵🔵🔵🔴🔴🔴🔴🔴🔴
-🔵🔵🔵🔵🔵🔴🔴🔴🔴🔴🔴
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+{\\__/}
+( •.•)
+/ >📜 u want the source code?
 
+{\\__/}
+(•-• )
+📦< \\ the shipped code is bundled, transpiled, & minified
 
-Hey astronaut. This website is built using Gatsby, Styled Components & TypeScript.
-You can view the raw soure code at https://github.com/juliettepretot/juliette.sh :)
+{\\__/}
+( •.•)
+/ >🎁 see the git repo for the source code: https://github.com/juliettepretot/jul.sh
 
 */`
 
@@ -69,8 +70,11 @@ const HTML: React.FunctionComponent<{
     <head>
       <meta charSet="utf-8" />
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-      <title>Cheav Sovannarith</title>
-      <meta name="description" content="Frontend Engineer" />
+      <title>Sovannarith Cheav</title>
+      <meta
+        name="description"
+        content="Creative, ambitious, and enterprising software engineer"
+      />
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"

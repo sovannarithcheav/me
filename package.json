@@ -1,8 +1,8 @@
 {
-  "name": "sovannarithcheav.github.io",
-  "description": "sovannarithcheav.github.io",
+  "name": "sovannarith.info",
+  "description": "sovannarith.info",
   "version": "0.1.0",
-  "author": "Juliette Pretot",
+  "author": "Sovannarith Cheav",
   "dependencies": {
     "@types/node": "^11.9.5",
     "@types/react": "^16.8.4",
@@ -39,7 +39,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sovannarithcheav/sovannarithcheav.github.io"
+    "url": "https://github.com/sovannarithcheav/me"
   },
   "license": "MIT",
   "scripts": {
@@ -47,7 +47,8 @@
     "build": "gatsby build",
     "lint": "tslint --fix 'src/**/*.{ts,tsx}' -p tsconfig.json && tsc",
     "type-check": "tsc --project tsconfig.json --noEmit",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy:github": "npm run build && node ./scripts/deploy-github"
   },
   "husky": {
     "hooks": {

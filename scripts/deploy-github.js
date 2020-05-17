@@ -4,7 +4,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://github.com/sovannarithcheav/sovannarithcheav.github.io.git',
+    repo: 'https://github.com/sovannarithcheav/me.git',
   },
   () => {
     console.log('Deploy Complete!')
